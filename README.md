@@ -4,7 +4,7 @@ Welcome to Learn By Building! Here you'll find a series of project ideas, all al
 
 ## Projects
 
-Every project can be found in the [projects](/projects) directory. Projects range in size and complexity. 
+Every project can be found in under the [Learn By Building](https://github.com/LearnByBuildingCo) organization. Projects range in size and complexity.
 
 | Project | Description |
 | --- | --- |
